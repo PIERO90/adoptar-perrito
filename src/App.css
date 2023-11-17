@@ -1,0 +1,22 @@
+header,
+footer {
+  background-color: lightblue;
+  width: 100%;
+  text-align: center;
+  padding: 0.3rem auto 0.3rem auto;
+}
+.bla {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.card-container {
+  display: flex;
+}
+
+.my-card {
+  border: 1px solid black;
+  margin: 1rem;
+  padding: 1rem;
+}
